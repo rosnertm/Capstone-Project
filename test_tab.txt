@@ -1,0 +1,4 @@
+First	Last
+Harry	Potter
+Ron	Weasley
+Hermione	Granger
